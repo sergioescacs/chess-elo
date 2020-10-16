@@ -1,4 +1,4 @@
-# Chess ELO app - Beta 0.1.0.
+# Chess ELO app - Beta 0.1.1.
 
 Last relase came up on 16/10/20. Next fearues were added:
 
