@@ -6,6 +6,10 @@ Last relase came up on 16/10/20. Next fearues were added:
     - The possibility to modify the k constant. 
     - Optimized ELO algorithm. 
     - Developer comments. 
+ 
+Working on new features:
+    - Graphic interface
+    - Better optmizitaion for the ELO algorithm. 
 
 # Q & A
 1. How can i contribute?
