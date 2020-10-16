@@ -8,7 +8,8 @@ Last relase came up on 16/10/20. Next fearues were added:
     - Developer comments. 
  
 Working on new features:
-    - Graphic interface
+
+    - Graphic interface.
     - Better optmizitaion for the ELO algorithm. 
 
 # Q & A
