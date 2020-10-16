@@ -1,1 +1,2 @@
-# chess-elo
+# Chess ELO app 
+
