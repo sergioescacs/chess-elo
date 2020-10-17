@@ -4,6 +4,11 @@ from tkinter import messagebox
 
 root = Tk()
 
+photo = PhotoImage(file = "xadrez.png")
+root.iconphoto(False, photo)
+root.title("ELO calc.")
+root.resizable(False, False)
+
 opt = ["10", "13", "16", "20", "23", "24", "30", "32", "40"] #k constant option list
 variable = StringVar(root)
 variable.set(opt[0])
@@ -13,7 +18,7 @@ variable_r = StringVar(root)
 variable_r.set(results[0])
 
 #Deploy Labels and various content as buttons and option lists
-main = LabelFrame(root, text="Chess ELO app - beta 0.1.1.")
+main = LabelFrame(root, text="Chess ELO app - beta 0.2.0.")
 txt1 = Label(main, text = "Your ELO: ")
 E1 = Entry(main, bd =3)
 txt2 = Label(main, text = "Your enemy's ELO: ")
