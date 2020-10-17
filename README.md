@@ -13,4 +13,4 @@ You can easily download all the content by using the GitHub clone repository mod
 Yes it is. We are working on the windows version, but in the future we will create both mobile versions. 
 
 2. How can i get the application?
-Now days you can not get an exe version of it, but in future releases you will be able to do it. 
+Visit the "builds" section and download the last build, execute the .exe file and ejnoy!
