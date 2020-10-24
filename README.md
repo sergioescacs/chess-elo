@@ -14,3 +14,5 @@ Yes it is. We are working on the windows version, but in the future we will crea
 
 2. How can i get the application?
 Visit the "builds" section and download the last build, execute the .exe file and ejnoy!
+
+    -
