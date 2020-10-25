@@ -1,4 +1,4 @@
-# Chess ELO app - Beta 0.2.1.
+# Chess ELO app - Beta 0.3.0
 
 As a chess player one thing  wanna know is how will change my ELO rating after winning or loseing any match?
 Well, thanks to my long experience playing chess, i've been playing since 2010, i can realize something: internet has shown us hundreads of chess tools but noone of them are as useful as u want. 
