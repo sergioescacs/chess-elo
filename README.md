@@ -10,7 +10,7 @@ As a result: that new project with big goals on it. I'll be developing a new che
 You can easily download all the content by using the GitHub clone repository mode. Make your changes and pull a request :)
 
 3. Is it going to be available for android or IOS?
-Yes it is. We are working on the windows version, but in the future we will create both mobile ports. 
+Yes it is. I am still working on the windows version, but in the future we will create both mobile ports. 
 
 2. How can i get the App?
 Visit the "builds" section and download the last build, execute the .exe file and ejnoy! Or, download the last installer from: https://sergioescacs.itch.io/chess-elo-calculator
