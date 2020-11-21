@@ -11,12 +11,12 @@ Well, thanks to my long experience playing chess, i've been playing since 2010, 
 As a result: that new project with big goals on it. I'll be developing a new chess ELO calculator with new features and useful tools. If u want to know more things about it, please suscribe to my GitHub repository and be ready to contribute ;) 
 
 # Q & A
-<b> 1. How can i contribute? </b>
+<b> 1. How can I contribute? </b>
 <p>You can easily download all the content by using the GitHub clone repository mode. Make your changes and pull a request :)</p>
 
 <b>3. Is it going to be available for android or IOS?</b>
 <p>Yes it is. I am still working on the windows version, but in the future we will create both mobile ports. </p>
 
-<b>2. How can i get the application?</b>
+<b>2. How can I get the app?</b>
 <p>Visit the "builds" section and download the last build, execute the .exe file and ejnoy! Or, download the last installer from: https://sergioescacs.itch.io/chess-elo-calculator</p>
 
