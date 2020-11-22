@@ -1,0 +1,8 @@
+Welcome to the Ches ELO calculator 2020. Visit the GitHub repository: https://github.com/sergioescacs/chess-elo
+
+- Download all files for free from my GitHub repository. 
+- Don't move files from the original folder, if u want to do it: just move the whole folder. 
+- If u want to execute it from your desktop create a shortcut. 
+- U can edit wathever u want and create your own version. But, at least, publish your changes at: https://github.com/sergioescacs/chess-elo. 
+
+Enjoy the app and thank you for supporting!
